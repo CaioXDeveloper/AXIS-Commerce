@@ -14,7 +14,7 @@ High-end, production-grade e-commerce storefront built with Next.js 14 (App Rout
 
 ## Live preview
 
-- Website: `https://axis-commerce.vercel.app`
+- Website: https://axis-commerce.vercel.app
 
 ## Credits
 

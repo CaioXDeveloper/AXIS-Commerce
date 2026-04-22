@@ -4,6 +4,23 @@ High-end, production-grade e-commerce storefront built with Next.js 14 (App Rout
 
 > _Movement is the axis._
 
+## Preview
+
+<div align="center">
+  <img src="./screenshots/img01.png" alt="Preview 1" width="45%" />
+  <img src="./screenshots/img02.png" alt="Preview 2" width="45%" />
+</div>
+
+
+## Live preview
+
+- Website: `https://axis-commerce.vercel.app`
+
+## Credits
+
+- Created by [CaioXDeveloper](https://github.com/CaioXDeveloper)
+- Portfolio: [https://port-caiox.vercel.app/](https://port-caiox.vercel.app/)
+
 ## Quick start
 
 ```bash

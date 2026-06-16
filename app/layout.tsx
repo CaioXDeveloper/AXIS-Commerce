@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { AppProviders } from "@/components/providers/AppProviders";
 import { CartDrawer } from "@/components/cart/CartDrawer";
 import { buildMetadata } from "@/lib/metadata";
@@ -40,6 +41,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {children}
           <CartDrawer />
         </AppProviders>
+        <Analytics />
       </body>
     </html>
   );
